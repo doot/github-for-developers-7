@@ -4,3 +4,4 @@
 - **Favorite Food**: `Bacon`
 - **Hobby**: `Ice Hockey`
 - **Favorite Color**: `Blue`
+- **City**: `Oakland, CA`
