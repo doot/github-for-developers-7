@@ -5,3 +5,4 @@
 - **Hobby**: `Ice Hockey`
 - **Favorite Color**: `Blue`
 - **City**: `Oakland, CA`
+- **New**: `Some new info`
